@@ -1,5 +1,7 @@
 # Spawn Kill Respawn
+This game demonstrates a few different types of AI.
 
+Developed in XNA
 ## Instructions
 * Steer the ship using WASD
 * Aim with the mouse and use left click to shoot
