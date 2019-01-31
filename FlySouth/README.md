@@ -1,4 +1,4 @@
-# FlySouth
+# Fly South
 This game is an example of Boids algorithm.
 ## Instructions
 * Use W to accelerate, S to decelerate and A+D to turn
