@@ -1,5 +1,7 @@
 # Save the Suns
-This game is an example of a genetic algorithm
+This game is an example of a genetic algorithm.
+
+Developed in XNA
 ## Instructions
 * Select a difficulty by pressing buttons 1-5. 1 is very easy, while 5 is practically impossible.
 * Accelerate using W and decelerate using S. Use A+D to turn.
