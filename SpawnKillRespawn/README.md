@@ -1,4 +1,4 @@
-# SpawnKillRespawn
+# Spawn Kill Respawn
 
 ## Instructions
 * Steer the ship using WASD
