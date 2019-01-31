@@ -1,0 +1,90 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 25.21.14.1771]
+    Renderer: NVIDIA GeForce GTX 1070
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Media\Dropbox\Programmering\AI\DontLookDown\DontLookDown_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.250 seconds
+desktop: 1920x1080 120Hz; virtual: 5760x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+The file 'F:/Media/Dropbox/Programmering/AI/DontLookDown/DontLookDown_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 83512 > 83508]
+ 
+(Filename:  Line: 276)
+
+The file 'F:/Media/Dropbox/Programmering/AI/DontLookDown/DontLookDown_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 83512 > 83508]
+ 
+(Filename:  Line: 276)
+
+UnloadTime: 4.671489 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 958.
+Total: 0.959634 ms (FindLiveObjects: 0.023990 ms CreateObjectMapping: 0.010825 ms MarkObjects: 0.109421 ms  DeleteObjects: 0.048859 ms)
+
+The file 'F:/Media/Dropbox/Programmering/AI/DontLookDown/DontLookDown_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 83512 > 83508]
+ 
+(Filename:  Line: 276)
+
+UnloadTime: 5.280330 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 963.
+Total: 0.872155 ms (FindLiveObjects: 0.024868 ms CreateObjectMapping: 0.012580 ms MarkObjects: 0.114395 ms  DeleteObjects: 0.096548 ms)
+
+The file 'F:/Media/Dropbox/Programmering/AI/DontLookDown/DontLookDown_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 83512 > 83508]
+ 
+(Filename:  Line: 276)
+
+UnloadTime: 4.988929 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 969.
+Total: 0.898487 ms (FindLiveObjects: 0.027501 ms CreateObjectMapping: 0.014628 ms MarkObjects: 0.131072 ms  DeleteObjects: 0.053833 ms)
+
+UnloadTime: 4.869559 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 746.
+Total: 33.686974 ms (FindLiveObjects: 0.020187 ms CreateObjectMapping: 0.011410 ms MarkObjects: 32.688717 ms  DeleteObjects: 0.267995 ms)
+
+UnloadTime: 4.590154 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 752.
+Total: 0.890880 ms (FindLiveObjects: 0.022820 ms CreateObjectMapping: 0.012580 ms MarkObjects: 0.117321 ms  DeleteObjects: 0.095963 ms)
+
+UnloadTime: 4.147786 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 1.012882 ms (FindLiveObjects: 0.011995 ms CreateObjectMapping: 0.013458 ms MarkObjects: 0.071680 ms  DeleteObjects: 0.258925 ms)
+
+The file 'F:/Media/Dropbox/Programmering/AI/DontLookDown/DontLookDown_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 83512 > 83508]
+ 
+(Filename:  Line: 276)
+
+UnloadTime: 2.198089 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 985.
+Total: 0.890587 ms (FindLiveObjects: 0.024868 ms CreateObjectMapping: 0.011995 ms MarkObjects: 0.112347 ms  DeleteObjects: 0.057929 ms)
+

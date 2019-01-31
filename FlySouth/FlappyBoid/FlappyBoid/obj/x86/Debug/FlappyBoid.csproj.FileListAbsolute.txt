@@ -1,0 +1,13 @@
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\FlappyBoid.exe
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\FlappyBoid.pdb
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\obj\x86\Debug\FlappyBoid.csprojResolveAssemblyReference.cache
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\obj\x86\Debug\FlappyBoid.exe
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\obj\x86\Debug\FlappyBoid.pdb
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\Content\Box.xnb
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\Content\Eagle.xnb
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\Content\Background.xnb
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\Content\Raven.xnb
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\Content\Sparrow.xnb
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\Content\font.xnb
+G:\Media\Programming\FlappyBoid\FlappyBoid\FlappyBoid\bin\x86\Debug\Content\Meat.xnb

@@ -1,0 +1,2 @@
+G:\Media\Programming\GAim\GAim\GAimContent\obj\x86\Debug\GAimContent.contentprojResolveAssemblyReference.cache
+G:\Media\Programming\SaveTheSuns\GAim\GAimContent\obj\x86\Debug\GAimContent.contentprojResolveAssemblyReference.cache
