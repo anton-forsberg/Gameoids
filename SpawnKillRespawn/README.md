@@ -1,5 +1,5 @@
 # Spawn Kill Respawn
-This game demonstrates a few different types of AI.
+This game demonstrates a few different types of simple AI.
 
 Developed in XNA
 ## Instructions
